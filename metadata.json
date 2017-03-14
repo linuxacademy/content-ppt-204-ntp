@@ -1,0 +1,19 @@
+{
+  "name": "tthomsen-ntp",
+  "version": "0.1.0",
+  "author": "tthomsen",
+<<<<<<< HEAD
+  "summary": "A module to manage NTP.",
+=======
+  "summary": "This module will manage ntp.",
+>>>>>>> c0ba8a39ac16b19528d4469290031344db35d87a
+  "license": "Apache-2.0",
+  "source": "git@github.com:rivethead42/puppet-ntp.git",
+  "project_page": "https://github.com/rivethead42/puppet-ntp",
+  "issues_url": "https://github.com/rivethead42/puppet-ntp/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
